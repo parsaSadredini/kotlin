@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_store"
+        android:icon="@drawable/ic_store_mall_directory_black_24dp"
+        android:title="Store"/>
+
+    <item
+        android:id="@+id/navigation_shop_card"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="Shop Card"/>
+
+</menu>
